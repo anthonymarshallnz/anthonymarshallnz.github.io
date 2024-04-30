@@ -1,0 +1,68 @@
+
+<!DOCTYPE HTML>
+<!-----------------------------------------------------------------------------------
+Hi!
+Want to know how this was made? Check out my Github.
+https://github.com/makkynz/portfolio
+TL:DR
+- ReactJS,
+- Redux
+- SASS,
+- Web Pack
+- NPM
+- Hosted at Amazon AWS S3 bucket
+------------------------------------------------------------------------------------>
+<html>
+
+<head>
+  <title>Anthony Marshall | Software Developer</title>
+  <link rel="shortcut icon" href="https://anthonymarshall.io/imgs/favicon.png">
+  <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">	
+  <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, initial-scale=1, user-scalable=no, minimal-ui">
+  <meta name="description" content="Portfolio of Anthony Marshall's development work" />
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@makkynz">
+  <meta name="twitter:title" content="Anthony Marshall Software Developer">
+  <meta name="twitter:description" content="Portfolio of Anthony Marshall's development work">
+  <meta name="twitter:creator" content="@makkynz">
+  <!-- Twitter Summary card images must be at least 120x120px -->
+  <meta name="twitter:image" content="http://anthonymarshall.io/imgs/me.png">
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="Anthony Marshall Software Developer" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://anthonymarshall.io/" />
+  <meta property="og:image" content="http://anthonymarshall.io/imgs/me.png" />
+  <meta property="og:description" content="Portfolio of Anthony Marshall's development work" /> 
+  <meta property="og:site_name" content="Anthony Marshall Software Developer" />
+  <link rel="stylesheet" href="/vendor/ionicons.min.css">
+  <script>
+    document.write('<link href="/styles.css?r='+ Math.floor(Math.random()*100) +'" rel="stylesheet" type="text/css" />');
+  </script>
+</head>
+<body>
+  <script>
+    history.pushState({}, "entry page", location.hash.substring(1));
+  </script>
+  <div id="app"></div>
+  <script src="/bundle.js"></script>
+  <script src="/vendor/modernizr-custom.js"></script>
+  <script src="/vendor/classie.js"></script>  
+  <script src="/vendor/revealer.js"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    if(window.location.search.indexOf('test=') === -1){
+      ga('create', 'UA-51742975-2', 'auto');
+      ga('send', 'pageview');
+    }
+
+  </script>
+</body>
+</html>
