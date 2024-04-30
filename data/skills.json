@@ -1,0 +1,221 @@
+[
+    {
+        "width": 300,
+        "height": 112,
+        "name": "Amazon AWS",
+        "fileName": "amazon.png",
+        "tags": [],
+        "ref":"aws"
+    },
+    {
+        "width": 300,
+        "height": 76,
+        "name": "Angular",
+        "fileName": "angular.png",
+        "tags": [],
+         "ref":"angular"
+    },
+    {
+        "width": 300,
+        "height": 192,
+        "name": "Asp.Net",
+        "fileName": "asp.net.png",
+        "tags": ["core-skill"],
+         "ref":"aspnet"
+    },
+    {
+        "width": 300,
+        "height": 331,
+        "name": "C#",
+        "fileName": "csharp.png",
+        "tags": ["core-skill"],
+        "ref":"csharp"
+    },
+    {
+        "width": 300,
+        "height": 39,
+        "name": "Episerver CMS 6",
+        "fileName": "episerver-logo.png",
+        "tags":[],
+        "ref":"episerver"
+    },
+    {
+        "width": 300,
+        "height": 125,
+        "name": "GIT",
+        "fileName": "git.png",
+        "tags": ["core-skill"],
+         "ref":"git"
+        
+    },
+    {
+        "width": 227,
+        "height": 506,
+        "name": "Gulp",
+        "fileName": "gulp.png",
+        "tags":[],
+         "ref":"gulp"
+    },
+    {
+        "width": 300,
+        "height": 246,
+        "name": "Html/JS/CSS",
+        "fileName": "html-js-css.png",
+        "tags": ["core-skill"],
+        "ref":"html-js-css"
+        
+    },
+    {
+        "width": 300,
+        "height": 246,
+        "name": "Java",
+        "fileName": "java-logo.png",
+        "tags": ["core-skill"],
+        "ref":"java"
+        
+    },
+    
+    {
+        "width": 300,
+        "height": 72,
+        "name": "Laravel",
+        "fileName": "laravel.png",
+        "tags":[],
+         "ref":"laravel"
+    },
+    {
+        "width": 300,
+        "height": 246,
+        "name": "Power BI",
+        "fileName": "powerbi-logo.png",
+        "tags": ["core-skill"],
+        "ref":"powerbi"
+        
+    },
+    {
+        "width": 299,
+        "height": 385,
+        "name": "Redux",
+        "fileName": "logo-redux.png",
+        "tags": ["core-skill"],
+         "ref":"redux"
+        
+    },
+    {
+        "width": 300,
+        "height": 82,
+        "name": "Magento",
+        "fileName": "magento.png",
+        "tags":[],
+         "ref":"magento"
+    },
+    {
+        "width": 300,
+        "height": 155,
+        "name": "MySql",
+        "fileName": "mysql.png",
+        "tags":[],
+         "ref":"mysql"
+    },
+    {
+        "width": 300,
+        "height": 155,
+        "name": "Oracle PL/Sql",
+        "fileName": "oracle.png",
+        "tags":[],
+         "ref":"oracle",
+         "description": "I used Oracle 10g  and wrote PL/SQL code in my role as Analyst Programmer at Kinetiq Ltd. Oracle was also used extensively during Bachelor of Applied Science degree course at university."
+    },
+    {
+        "width": 300,
+        "height": 63,
+        "name": "Nginx",
+        "fileName": "nginx.png",
+        "tags":[],
+         "ref":"nginx"
+    },
+    {
+        "width": 300,
+        "height": 63,
+        "name": "Palantir",
+        "fileName": "palantir-logo.png",
+        "tags":["core-skill"],
+         "ref":"palantir"
+    },
+    {
+        "width": 300,
+        "height": 158,
+        "name": "PHP",
+        "fileName": "php.png",
+        "tags":[],
+          "ref":"php"
+    },
+    {
+        "width": 300,
+        "height": 100,
+        "name": "React",
+        "fileName": "react.png",
+        "tags": ["core-skill"],
+         "ref":"react"
+    
+    },
+    {
+        "width": 300,
+        "height": 224,
+        "name": "Sass",
+        "fileName": "sass.png",
+        "tags":["core-skill"],
+         "ref":"sass"
+    },
+    {
+        "width": 300,
+        "height": 75,
+        "name": "Sql Server",
+        "fileName": "sql-server.png",
+        "tags": ["core-skill"],
+         "ref":"sqlserver"
+    },
+    {
+        "width": 300,
+        "height": 65,
+        "name": "Team City",
+        "fileName": "teamcity.png",
+        "tags":[],
+         "ref":"teamcity"
+    },
+    {
+        "width": 300,
+        "height": 67,
+        "name": "Ubuntu",
+        "fileName": "ubuntu.png",
+        "tags":[],
+         "ref":"ubuntu"
+    },
+    {
+        "width": 300,
+        "height": 74,
+        "name": "Varnish",
+        "fileName": "varnish.png",
+        "tags":[],
+         "ref":"varnish"
+    },
+    
+    {
+        "width": 300,
+        "height": 49,
+        "name": "WPF.Net",
+        "fileName": "wpf_logo_2.png",
+        "tags":[],
+         "ref":"wpf"
+    },
+    {
+        "width": 300,
+        "height": 49,
+        "name": "Webpack",
+        "fileName": "webpack.png",
+        "tags":[],
+         "ref":"webpack"
+    }
+   
+   
+]

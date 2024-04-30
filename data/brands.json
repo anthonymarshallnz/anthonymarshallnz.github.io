@@ -1,0 +1,775 @@
+[
+    {
+        "width": 499,
+        "height": 157,
+        "year": 2010,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "react",
+            "redux",
+            "sass",
+            "webpack",
+            "teamcity"
+        ],
+        "name": "Barfoot & Thompson",
+        "fileName": "barfoot-logo-sized.png",
+        "description": "<p>Lead developer on Barfoot's SalesKit project while I was working at Datacom.  This is a highly interactive web application used by sales agents to create and design professionally printed promotional material and property listing documentation.</p>",
+        "ref": "barfoot",
+        "carousel": [
+            {
+                "image": "saleskit-1.png",
+                "caption": "SalesKit"
+            },
+            {
+                "image": "saleskit-2.png",
+                "caption": "SalesKit"
+            },
+            {
+                "image": "saleskit-3.png",
+                "caption": "SalesKit"
+            },
+            {
+                "image": "saleskit-4.png",
+                "caption": "SalesKit"
+            },
+            {
+                "image": "saleskit-5.png",
+                "caption": "SalesKit"
+            },
+            {
+                "image": "saleskit-6.png",
+                "caption": "SalesKit"
+            },
+            {
+                "image": "saleskit-7.png",
+                "caption": "SalesKit"
+            },
+            
+            {
+                "image": "saleskit-8.png",
+                "caption": "SalesKit"
+            }
+        ]
+    },
+    {
+        "width": 499,
+        "height": 157,
+        "year": 2010,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "ssis",
+            "crystal",
+            "html-js-css"
+        ],
+        "name": "ANZ",
+        "fileName": "ANZ-logo-logotype.png",
+        "description": "<p>I worked on a number of projects for ANZ while I was employed at Aimia between 2006 to 2011.</p><p>Notable projcts </p>",
+        "ref": "anz",
+        "carousel": [
+            {
+                "image": "anz-world-visa-1.png",
+                "caption": "ANZ World Visa site"
+            },
+            {
+                "image": "anz-world-visa-2.png",
+                "caption": "ANZ World Visa site"
+            },
+            {
+                "image": "2017-01-31-07_28_30-ANZ-World-Visa.png",
+                "caption": "ANZ World Visa site"
+            }
+        ]
+    },
+    {
+        "width": 500,
+        "height": 115,
+        "year": 2016,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "ssis",
+            "crystal",
+            "html-js-css"
+        ],
+        "name": "ASB",
+        "fileName": "ASB_Bank_logo.png",
+        "description": "Lorem Ipsum",
+        "ref": "asb",
+        "carousel": [
+            {
+                "image": "true-rewards-1.png",
+                "caption": "ASB True Rewards site"
+            },
+            {
+                "image": "2017-01-31-07_30_22-True-Rewards.png",
+                "caption": "ASB True Rewards site"
+            },
+            {
+                "image": "2017-01-31-07_30_58-True-Rewards.png",
+                "caption": "ASB True Rewards site"
+            }
+        ]
+    },
+    {
+        "width": 499,
+        "height": 94,
+        "year": 2016,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "ssis",
+            "html-js-css"
+        ],
+        "name": "Westpac",
+        "fileName": "westpac.png",
+        "description": "Lorem Ipsum",
+        "ref": "westpac",
+        "carousel": [
+            {
+                "image": "2017-01-29-05_14_52-Westpac-hotpoints.png",
+                "caption": "Westpac Hotpoints site"
+            },
+            {
+                "image": "2017-01-29-05_15_57-Westpac-hotpoints.png",
+                "caption": "Westpac Hotpoints site"
+            }
+        ]
+    },
+    {
+        "width": 500,
+        "height": 146,
+        "year": 2016,
+        "tags": [
+            "php",
+            "mysql",
+            "laravel",
+            "html-js-css",
+            "angular",
+            "sass",
+            "git",
+            "gulp"
+        ],
+        "name": "Kinder Chocolate",
+        "fileName": "kinder-logo-1210x447.png",
+        "description": "Lorem Ipsum",
+        "ref": "kinder",
+        "carousel": [
+            {
+                "image": "hero_ipad01.jpg",
+                "caption": "Kinder Story Makers site"
+            },
+            {
+                "image": "Book_MockUp.jpg",
+                "caption": "Kinder Story Makers site"
+            },
+            {
+                "image": "choose.jpg",
+                "caption": "Kinder Story Makers site"
+            }
+        ]
+    },
+    {
+        "width": 500,
+        "height": 260,
+        "year": 2016,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "html-js-css",
+            "angular",
+            "umbraco",
+            "aws",
+            "sass",
+            "git",
+            "gulp"
+        ],
+        "name": "Prostate Cancer UK",
+        "fileName": "logo_pc.png",
+        "description": "Lorem Ipsum",
+        "ref": "pcuk",
+        "carousel": [
+            {
+                "image": "main1.png",
+                "caption": "prostatecanceruk.org"
+            },
+            {
+                "image": "2017-01-31-07_18_35-Men-United---Prostate-Cancer-UK.png",
+                "caption": "menunited.org"
+            },
+            {
+                "image": "2017-01-31-07_19_13-Men-United---Prostate-Cancer-UK.png",
+                "caption": "menunited.org"
+            },
+            {
+                "image": "2017-01-31-07_19_34-Men-United---Prostate-Cancer-UK.png",
+                "caption": "menunited.org"
+            }
+        ]
+    },
+    {
+        "width": 500,
+        "height": 70,
+        "year": 2016,
+        "tags": [
+            "wpf",
+            "csharp",
+            "sql-lite"
+        ],
+        "name": "Converse",
+        "fileName": "Converse-Logo-New-1024x768.png",
+        "description": "Lorem Ipsum",
+        "ref": "converse",
+        "carousel": [
+            {
+                "image": "made1.jpg",
+                "caption": "Converse Made by you"
+            },
+            {
+                "image": "made2.jpg",
+                "caption": "Converse Made by you"
+            },
+            {
+                "image": "made3.jpg",
+                "caption": "Converse Made by you"
+            },
+            {
+                "image": "made4.jpg",
+                "caption": "Converse Made by you"
+            },
+            {
+                "image": "made5.jpg",
+                "caption": "Converse Made by you"
+            },
+            {
+                "image": "made6.jpg",
+                "caption": "Converse Made by you"
+            },
+            {
+                "image": "made7.jpg",
+                "caption": "Converse Made by you"
+            },
+            {
+                "image": "back_half.jpg",
+                "caption": "Converse Sneaker Snap"
+            },
+            {
+                "image": "front_half.jpg",
+                "caption": "Converse Sneaker Snap"
+            },
+            {
+                "image": "half_side.jpg",
+                "caption": "Converse Sneaker Snap"
+            },
+            {
+                "image": "ss_cover.jpg",
+                "caption": ""
+            },
+            {
+                "image": "ss_cover2.jpg",
+                "caption": ""
+            },
+            {
+                "image": "threequarter_half.jpg",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 329,
+        "height": 245,
+        "year": 2016,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "html-js-css",
+            "tfs",
+            "sass",
+            "git",
+            "gulp"
+        ],
+        "name": "Japanese Tobacco International",
+        "fileName": "jti-vector-logo.png",
+        "description": "Lorem Ipsum",
+        "ref": "jti",
+        "carousel": [
+            {
+                "image": "4.jpg",
+                "caption": ""
+            },
+            {
+                "image": "one-verified-dev.png",
+                "caption": ""
+            },
+            {
+                "image": "3.jpg",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 500,
+        "height": 190,
+        "year": 2016,
+        "tags": [
+            "php",
+            "mysql",
+            "laravel",
+            "ubuntu",
+            "html-js-css",
+            "angular",
+            "gulp",
+            "angular",
+            "sass"
+        ],
+        "name": "Ebay",
+        "fileName": "EBay_logo.png",
+        "description": "Lorem Ipsum",
+        "ref": "ebay",
+        "carousel": [
+            {
+                "image": "ebay_nightAndDay.gif",
+                "caption": "Ebay Global by Design site"
+            },
+            {
+                "image": "mobileGameScreens.jpg",
+                "caption": "Ebay Global by Design site"
+            },
+            {
+                "image": "profile.jpg",
+                "caption": "Ebay Global by Design site"
+            },
+            {
+                "image": "questionsOnMobile.gif",
+                "caption": "Ebay Global by Design site"
+            }
+        ]
+    },
+    {
+        "width": 233,
+        "height": 157,
+        "year": 2016,
+        "tags": [
+            "php",
+            "mysql",
+            "magento",
+            "ubuntu",
+            "varnish",
+            "html-js-css",
+            "git",
+            "sass",
+            "angular",
+            "gulp"
+        ],
+        "name": "G.F Smith",
+        "fileName": "header-gfsmith-logo.png",
+        "description": "Lorem Ipsum",
+        "ref": "gfsmith",
+        "carousel": [
+            {
+                "image": "2017-02-07-21_27_08-Collection.png",
+                "caption": ""
+            },
+            {
+                "image": "2017-02-07-21_30_06-Make-Frame-Make-Yours.png",
+                "caption": ""
+            },
+            {
+                "image": "2017-02-07-21_31_01-Papersmith-Homepage.png",
+                "caption": ""
+            },
+            {
+                "image": "2017-02-07-21_31_59-G-.-F-SMITH.png",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 189,
+        "height": 144,
+        "year": 2016,
+        "tags": [
+            "php",
+            "mysql",
+            "ubuntu",
+            "html-js-css",
+            "yii framework",
+            "git"
+        ],
+        "name": "Colorplan",
+        "fileName": "colourplan.png",
+        "description": "Lorem Ipsum",
+        "ref": "colorplan",
+        "carousel": [
+            {
+                "image": "colorplan_responsive.jpg",
+                "caption": "Colorplan site"
+            },
+            {
+                "image": "colorplan_swatches.jpg",
+                "caption": "Colorplan site"
+            }
+        ]
+    },
+    {
+        "width": 499,
+        "height": 194,
+        "year": 2016,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "html-js-css",
+            "sass",
+            "git"
+        ],
+        "name": "Cadbury",
+        "fileName": "Cadbury-logo.png",
+        "description": "Lorem Ipsum",
+        "ref": "cadbury",
+        "carousel": [
+            {
+                "image": "sprite.png",
+                "caption": ""
+            },
+            {
+                "image": "3-reasons-why-chocolate-brands-embrace-content-strategy-21-638.jpg",
+                "caption": ""
+            },
+            {
+                "image": "article-2272054-174A5DE9000005DC-154_634x383.jpg",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 500,
+        "height": 90,
+        "year": 2016,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "html-js-css",
+            "episerver",
+            "sass",
+            "git",
+            "gulp"
+        ],
+        "name": "De Beers",
+        "fileName": "de-beers.png",
+        "description": "Lorem Ipsum",
+        "ref": "debeers",
+        "carousel": [
+            {
+                "image": "2.png",
+                "caption": ""
+            },
+            {
+                "image": "1.png",
+                "caption": ""
+            },
+            {
+                "image": "3.png",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 419,
+        "height": 140,
+        "year": 2016,
+        "tags": [
+            "php",
+            "mysql",
+            "wordpress",
+            "html-js-css",
+            "sass",
+            "git"
+        ],
+        "name": "Investec",
+        "fileName": "Investec_logo.png",
+        "description": "Yeah boi<h1>test</h2>",
+        "ref": "investec",
+        "carousel": [
+            {
+                "image": "1.png",
+                "caption": ""
+            },
+            {
+                "image": "2.png",
+                "caption": ""
+            },
+            {
+                "image": "3.png",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 499,
+        "height": 94,
+        "year": 2013,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",            
+            "html-js-css",
+            "salesforce",
+            "episerver",
+            "teamcity"
+        ],
+        "name": "Morrisons",
+        "fileName": "morrisons.png",
+        "description": "Lorem Ipsum",
+        "ref": "morrisons",
+        "carousel": [
+            {
+                "image": "image_update_3362840134352392_1357576130_9j-4aaqsk.jpeg",
+                "caption": ""
+            },
+            {
+                "image": "morrisons_homepage-blog-full.png",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 499,
+        "height": 94,
+        "year": 2013,
+        "tags": [
+            "angular",
+            "redux",
+           
+            "magento",
+            "html-js-css",
+            "php",
+            "mysql",
+            "sass",
+            "git",
+            "gulp"
+
+        ],
+        "name": "Hatton by Design",
+        "fileName": "hatton.png",
+        "description": "Lorem Ipsum",
+        "ref": "hatton",
+        "carousel": [
+            {
+                "image": "2017-01-31-07_11_12-Home-page.png",
+                "caption": ""
+            },
+            {
+                "image": "2017-01-31-07_11_50-Find-Your-Perfect-Engagement-Ring.png",
+                "caption": ""
+            },
+            {
+                "image": "2017-01-31-07_12_08-Find-Your-Perfect-Engagement-Ring.png",
+                "caption": ""
+            },
+            {
+                "image": "2017-01-31-07_12_39-Find-Your-Perfect-Engagement-Ring.png",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 500,
+        "height": 90,
+        "year": 2016,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "html-js-css"
+        ],
+        "name": "Vitamin Water",
+        "fileName": "vitaminwater-logo.png",
+        "description": "Lorem Ipsum",
+        "ref": "vitaminwater",
+        "carousel": [
+            {
+                "image": "1.png",
+                "caption": ""
+            },
+            {
+                "image": "2.jpg",
+                "caption": ""
+            },
+            {
+                "image": "3.jpg",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 499,
+        "height": 94,
+        "year": 2016,
+        "tags": [
+             "magento",
+            "html-js-css",           
+            "php",
+            "mysql",
+            "sass",
+            "git",
+            "gulp"
+        ],
+        "name": "John Lobb",
+        "fileName": "johnlobb.png",
+        "description": "Lorem Ipsum",
+        "ref": "johnlobb",
+        "carousel": [
+            {
+                "image": "hero.jpg",
+                "caption": ""
+            },
+            {
+                "image": "johnlobb_screen-imac.jpg",
+                "caption": ""
+            },
+            {
+                "image": "johnlobb_screen-ipad.jpg",
+                "caption": ""
+            },
+            {
+                "image": "johnlobb_screen-iphone.jpg",
+                "caption": ""
+            },
+            {
+                "image": "thumb.jpg",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 500,
+        "height": 168,
+        "year": 2016,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "html-js-css"
+        ],
+        "name": "avis-logo",
+        "fileName": "avis-logo.png",
+        "description": "Lorem Ipsum",
+        "ref": "avis",
+        "carousel": [
+            {
+                "image": "2017-02-01-21_37_01-Int-Agent.png",
+                "caption": ""
+            },
+            {
+                "image": "2017-02-01-21_37_44-Int-Agent.png",
+                "caption": ""
+            }
+        ]
+    },
+    {
+        "width": 209,
+        "height": 209,
+        "year": 2016,
+        "tags": [
+            "php",
+            "mysql",
+            "laravel",
+            "ubuntu",
+            "html-js-css",
+            "sass"
+        ],
+        "name": "Channel 4",
+        "fileName": "Channel4.png",
+        "description": "Lorem Ipsum",
+        "ref": "channel4",
+        "carousel": [
+            {
+                "image": "topboy_videoEdit.jpg",
+                "caption": "Top Boy Promo site"
+            },
+            {
+                "image": "topboy_yourcut.jpg",
+                "caption": ""
+            },
+            {
+                "image": "topboy_youtube.jpg",
+                "caption": ""
+            }
+        ]
+    },
+    
+    {
+        "width": 499,
+        "height": 94,
+        "year": 2013,
+        "tags": [
+            "aspnet",
+            "csharp",
+            "sqlserver",            
+            "html-js-css"
+        ],
+        "name": "Adidas",
+        "fileName": "adidas.png",
+        "description": "Lorem Ipsum",
+        "ref": "adidas",
+        "carousel": [
+            {
+                "image": "1.jpg",
+                "caption": "Adidas Micoach tracker"
+            },
+            {
+                "image": "2.jpg",
+                "caption": "Adidas Micoach compare stats site"
+            },
+            {
+                "image": "3.png",
+                "caption": "Adidas Micoach compare stats site"
+            }
+        ]
+    },
+    {
+        "width": 499,
+        "height": 94,
+        "year": 2016,
+        "tags": [
+            "react",
+            "redux",
+            "html-js-css",
+            "sass",
+            "webpack",
+            "aws"
+            
+        ],
+        "name": "Anthonymarshall.io Portfolio site",
+        "fileName": "anthonymarshall.io.png",
+        "description": "Lorem Ipsum",
+        "ref": "anthonymarshall.io"
+    },
+    {
+        "width": 400,
+        "height": 100,
+        "year": 2021,
+        "tags": [
+            "java",
+            "powerbi",
+            "aspnet",
+            "csharp",
+            "sqlserver",
+            "html-js-css" ,
+            "palantir"          
+        ],
+        "name": "New Zealand Government",
+        "fileName": "nzgovt-logo.png",
+        "description": "Lorem Ipsum",
+        "ref": "nzgovt"
+    }
+]
