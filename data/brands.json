@@ -764,8 +764,7 @@
             "aspnet",
             "csharp",
             "sqlserver",
-            "html-js-css" ,
-            "palantir"          
+            "html-js-css"            
         ],
         "name": "New Zealand Government",
         "fileName": "nzgovt-logo.png",
